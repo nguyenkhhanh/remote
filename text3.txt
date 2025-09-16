@@ -1,3 +1,7 @@
 lom khom duoi nui tieu vai chu
 
+<<<<<<< HEAD
 add
+=======
+newpg
+>>>>>>> recipe
