@@ -1,3 +1,11 @@
 lom khom duoi nui tieu vai chu
 
+<<<<<<< HEAD
 doui
+=======
+<<<<<<< HEAD
+add
+=======
+newpg
+>>>>>>> recipe
+>>>>>>> master
